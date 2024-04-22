@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi there 👋 I'm Brenda!
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://alshaerelectromech.com/wp-content/uploads/2022/07/shutterstock_1632035281-Copy-1024x821.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://alshaerelectromech.com/wp-content/uploads/2022/07/shutterstock_1632035281-Copy-1024x821.jpg">
+ <img alt="YOUR-ALT-TEXT" src="https://alshaerelectromech.com/wp-content/uploads/2022/07/shutterstock_1632035281-Copy-1024x821.jpg">
+</picture>
+
 
 <!--
 **BBrendaBaumann/BBrendaBaumann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
