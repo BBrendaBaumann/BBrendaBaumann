@@ -1,3 +1,10 @@
+
+## <h1>Hello world ! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="30px"></h1> 
+
+<p align="center">
+  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Bienvenid@+a+mi+perfil+de+Github"></a>
+</p>
+
 <div align="center">
 <h1 align="center">Hi there 🌹 I'm Brenda!</h1> </div>
 
