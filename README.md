@@ -32,13 +32,13 @@
 
 ⭐**LANGUAGES AND TOOLS that I use**
 
-*FrontEnd: React | Redux | Tailwind | Zustand | CSS*
+*FrontEnd: React | Redux | TailwindCSS | Zustand | CSS | NextJS | Framer Motion | Ant Design | React Native*
 
-*BackEnd: NodeJS | Express | JavaScript*
+*BackEnd:  NestJS| NodeJS | Express | JavaScript | Typescript *
 
 *Database: PostgreSQL | Sequelize*
 
-*Libraries and tools: Deploy vercel | Github | RESTful APIs*
+*Libraries and tools: Deploy vercel | Docker desktop | | Github | RESTful APIs  *
 
 <br>
 
