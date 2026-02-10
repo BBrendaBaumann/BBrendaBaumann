@@ -12,7 +12,7 @@
 <picture width="300px" height="400px">
  <source width="300px" height="400px" media="(prefers-color-scheme: dark)" srcset="https://alshaerelectromech.com/wp-content/uploads/2022/07/shutterstock_1632035281-Copy-1024x821.jpg">
  <source width="300px" height="400px" media="(prefers-color-scheme: light)" srcset="https://alshaerelectromech.com/wp-content/uploads/2022/07/shutterstock_1632035281-Copy-1024x821.jpg">
- <img width="300px" height="400px" alt="YOUR-ALT-TEXT" src="https://alshaerelectromech.com/wp-content/uploads/2022/07/shutterstock_1632035281-Copy-1024x821.jpg">
+ <img width="300px" height="400px" alt="YOUR-ALT-TEXT" src="me.jpeg">
 </picture>
 </div>
 
