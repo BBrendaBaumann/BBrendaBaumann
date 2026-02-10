@@ -9,11 +9,11 @@
 <h1 align="center">Hi there 🌹 I'm Brenda!</h1> </div>
 
 <div align="center">
-<picture width="300px" height="400px">
- <source width="300px" height="400px" media="(prefers-color-scheme: dark)" srcset="https://alshaerelectromech.com/wp-content/uploads/2022/07/shutterstock_1632035281-Copy-1024x821.jpg">
- <source width="300px" height="400px" media="(prefers-color-scheme: light)" srcset="https://alshaerelectromech.com/wp-content/uploads/2022/07/shutterstock_1632035281-Copy-1024x821.jpg">
- <img width="300px" height="400px" alt="YOUR-ALT-TEXT" src="me.jpeg">
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="me.jpeg">
+    <source media="(prefers-color-scheme: light)" srcset="me.jpeg">
+    <img width="300" height="400" alt="Mi foto" src="me.jpeg">
+  </picture>
 </div>
 
 🌹 **WHO AM I ?** 🌹
