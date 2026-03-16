@@ -1,12 +1,11 @@
-
-## <h1>Hello world ! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="30px"></h1> 
+## <h1>HOLA MUNDO ! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="30px"></h1> 
 
 <p align="center">
   <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Bienvenid@+a+mi+perfil+de+Github"></a>
 </p>
 
 <div align="center">
-<h1 align="center">Hi there 🌹 I'm Brenda!</h1> </div>
+<h1 align="center">🌹 Soy Brenda!</h1> </div>
 
 <div align="center">
   <picture>
@@ -16,93 +15,49 @@
   </picture>
 </div>
 
-🌹 **WHO AM I ?** 🌹
+🌹 **QUIÉN SOY ?** 🌹
 
-*I am a full stack developer with experience in the design and development of web applications. From front-end to back-end, I love working on all aspects of a project to deliver complete and efficient solutions.*
+*Soy una Desarrolladora Full Stack apasionada por crear aplicaciones web integrales, eficientes y con propósito. Mi enfoque principal se centra en el Backend y la Arquitectura de Software, donde aporto un diferencial clave: la integración estratégica de agentes de IA y LLMs para optimizar el ciclo de vida del desarrollo, reduciendo la deuda técnica y garantizando seguridad en cada línea de código.
 
-*Currently, I am looking for new opportunities that challenge me and allow me to continue growing professionally as a full stack developer. I am always excited to collaborate on innovative projects and work in passionate teams. I am a technology enthusiast with a strong dedication to learning and continuous evolution in the field of software development. My current professional goal is to catalyze technological innovation through creative and efficient solutions, thus contributing to progress and excellence in this exciting field.*
+Me considero una entusiasta de la tecnología con una dedicación inquebrantable al aprendizaje y la evolución continua. Disfruto profundamente trabajar en todos los aspectos de un proyecto y colaborar con equipos apasionados en entornos innovadores que me desafíen profesionalmente. Mi objetivo es catalizar la innovación tecnológica a través de soluciones creativas que contribuyan al progreso y la excelencia en este apasionante campo.*
 
-📲**CONTACT INFORMATION**
+📲**CONECTEMOS!**
 
-📬 *Feel free to contact me through brenbaumann40@gmail.com or www.linkedin.com/in/brenda-baumann-b74956195*
+📬 *No dudes en contactarme a través de brenbaumann40@gmail.com o www.linkedin.com/in/brenda-baumann-b74956195*
 
-💛 *Fun Fact... When I'm not coding, you can find me experimenting with new recipes in the kitchen or swimming!*
+💛 *Fun Fact... Cuando no estoy orquestando agentes de IA, me encontrarás andando en bicicleta, leyendo libros interesantes o viendo buenas peliculas o series*
 
-*Let's create something amazing together!* 💻🚀🌟
+*¡Creemos algo increíble juntos!* 💻🚀🌟
 
-⭐**LANGUAGES AND TOOLS that I use**
+⭐**IDIOMAS Y HERRAMIENTAS que uso**
 
-*FrontEnd: React | Redux | TailwindCSS | Zustand | CSS | NextJS | Framer Motion | Ant Design | React Native*
+*IA Orchestration: LangChain | n8n | Prompt Engineering | OpenAI API | Cursor | Copilot*
 
-*BackEnd:  NestJS| NodeJS | Express | JavaScript | Typescript *
+*Back-End:  NestJS | NodeJS | JavaScript | Typescript | Python | PostgreSQL*
 
-*Database: PostgreSQL | Sequelize*
+*Cloud & DevOps: Deploy vercel | Docker desktop con IA | Github Actions | AWS | Claude Security Review | Release Please GitLab | RESTful APIs  *
 
-*Libraries and tools: Deploy vercel | Docker desktop | | Github | RESTful APIs  *
+*Front-End: React | Redux | TailwindCSS | Zustand | CSS | NextJS | Ant Design | React Native*
 
 <br>
 
- 🔹 **FEATURED PROJECTS** 🔹
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Henry Academy Individual Project - VIDEOGAMES Api</h3>
-<div align="center">
-<a href="https://github.com/BBrendaBaumann/PI-VIDEOGAMES" target="_blank">
- <img src="https://res.cloudinary.com/dgyhhgjvq/image/upload/v1713819290/github%20readme/Captura_de_pantalla_2515_vjxddu.png" width="400" alt="Api videogames"></a>
-<p>
-<a href="https://github.com/BBrendaBaumann/PI-VIDEOGAMES" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
-<p><strong>VIDEOGAMES Api</strong> The idea of ​​this project was to build a web application from the rawg API in which you can:
-search for videogames, view videogame information, filter them, sort them and create new videogames. Using the technologies learned: React, Redux, Node, Express and Sequelize.</p>
-</div>
-                                                                                      
-</td>
+ 🌟 🔹 **EXPERIENCIA DESTACADA** 🔹
 
-<td width="50%">
+ *🏗️ Innevo Chile (E-commerce & AI Mobile) 
+ 
+- Wishlist: Arquitectura de microservicios con NestJS y pagos complejos con Transbank.
+- FirmaApp (Ecosistema de Firma Digital): Orquesté una arquitectura de microservicios para la gestión documental segura (estilo Google Drive). Implementé flujos de permisos granulares, integración biométrica con CheckID y una pasarela de pagos por suscripción.
+- WeddingForm (Plataforma de Eventos): Desarrollé un sistema de formularios dinámicos de alta complejidad con validaciones en tiempo real. Gestioné el despliegue completo en la nube asegurando alta disponibilidad para picos de tráfico.
+- FrutaApp: Integración de modelos de visión computacional (YOLO) con backends orquestadores.
 
-<h3 align="center">Integrative Project Academia Henry - RICK & MORTY</h3>
-<div align="center">                                       
-<a href="https://github.com/BBrendaBaumann/RICK-AND-MORTY-PROYECT" target="_blank"><img src="https://res.cloudinary.com/dgyhhgjvq/image/upload/v1713820345/github%20readme/Captura_de_pantalla_2518_aaoalo.png" width="400" alt="Api VIDEOGAMES"></a>
+🚀 TASHI IT (Consultoría Independiente) 
+
+- Purmamarca: Transformación digital de e-commerce optimizando la gestión de inventario en un 40%.
+- Enfermería UTI: Desarrollo de SPA modular con altos estándares de accesibilidad.
+
+🔬 🔹 **Lab de Ingeniería & IA** 🔹
+
+*- Security Review con Claude: Implementación de flujos de auditoría automática para vulnerabilidades OWASP Top 10.
+- CI/CD Inteligente: Automatización de versionado y notas de lanzamiento con Release Please.
+- Spec Driven Development (SDD): Desarrollo basado en especificaciones para eliminar errores de negocio.*
 <br>
-<p>
-<a href="https://github.com/BBrendaBaumann/RICK-AND-MORTY-PROYECT" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
-<p><strong>RICK & MORTY Api</strong> This project is a web application that uses the Rick and Morty API to provide various functionalities such as searching for characters, filtering, adding to favorites, removing from favorites, and a login system to access the application.</p>
-</div>                                                             
-</table>                                                                                 
-</div>
-<br>
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center"> Final Project Henry Academy Group - Ecommerce</h3>
-<div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="https://res.cloudinary.com/dgyhhgjvq/image/upload/v1713821033/github%20readme/Captura_de_pantalla_2519_kgthzd.png" width="400" alt="Ecommerce Be-comfree"></a>
-<p>
-<a href="#" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
-<p>We created a fashion Ecommerce as a final project at Henry Bootcamp. It allows users to explore and filter products, add products to favorites according to user preferences, section of products with discounts, newsletter, make secure purchases with PayPal and manage orders/orders. Developed with modern technologies such as React.js, Node.js, Zustand and Tailwind, it guarantees an intuitive and complete shopping experience.</p>
-</div>
-                                                                                      
-                                                                                      
-</td>  
-</table>                                                                                 
-</div>
-<br>
-
-### ⚙ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/BBrendaBaumann">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BBrendaBaumann&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BBrendaBaumann&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
