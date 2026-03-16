@@ -17,9 +17,9 @@
 
 🌹 **QUIÉN SOY ?** 🌹
 
-*Soy una Desarrolladora Full Stack apasionada por crear aplicaciones web integrales, eficientes y con propósito. Mi enfoque principal se centra en el Backend y la Arquitectura de Software, donde aporto un diferencial clave: la integración estratégica de agentes de IA y LLMs para optimizar el ciclo de vida del desarrollo, reduciendo la deuda técnica y garantizando seguridad en cada línea de código.
+Soy una Desarrolladora Full Stack apasionada por crear aplicaciones web integrales, eficientes y con propósito. Mi enfoque principal se centra en el Backend y la Arquitectura de Software, donde aporto un diferencial clave: la integración estratégica de agentes de IA y LLMs para optimizar el ciclo de vida del desarrollo, reduciendo la deuda técnica y garantizando seguridad en cada línea de código.
 
-Me considero una entusiasta de la tecnología con una dedicación inquebrantable al aprendizaje y la evolución continua. Disfruto profundamente trabajar en todos los aspectos de un proyecto y colaborar con equipos apasionados en entornos innovadores que me desafíen profesionalmente. Mi objetivo es catalizar la innovación tecnológica a través de soluciones creativas que contribuyan al progreso y la excelencia en este apasionante campo.*
+Me considero una entusiasta de la tecnología con una dedicación inquebrantable al aprendizaje y la evolución continua. Disfruto profundamente trabajar en todos los aspectos de un proyecto y colaborar con equipos apasionados en entornos innovadores que me desafíen profesionalmente. Mi objetivo es catalizar la innovación tecnológica a través de soluciones creativas que contribuyan al progreso y la excelencia en este apasionante campo.
 
 📲**CONECTEMOS!**
 
@@ -43,7 +43,7 @@ Me considero una entusiasta de la tecnología con una dedicación inquebrantable
 
  🌟 🔹 **EXPERIENCIA DESTACADA** 🔹
 
- *🏗️ Innevo Chile (E-commerce & AI Mobile) 
+ 🏗️ Innevo Chile (E-commerce & AI Mobile) 
  
 - Wishlist: Arquitectura de microservicios con NestJS y pagos complejos con Transbank.
 - FirmaApp (Ecosistema de Firma Digital): Orquesté una arquitectura de microservicios para la gestión documental segura (estilo Google Drive). Implementé flujos de permisos granulares, integración biométrica con CheckID y una pasarela de pagos por suscripción.
@@ -57,7 +57,7 @@ Me considero una entusiasta de la tecnología con una dedicación inquebrantable
 
 🔬 🔹 **Lab de Ingeniería & IA** 🔹
 
-*- Security Review con Claude: Implementación de flujos de auditoría automática para vulnerabilidades OWASP Top 10.
+- Security Review con Claude: Implementación de flujos de auditoría automática para vulnerabilidades OWASP Top 10.
 - CI/CD Inteligente: Automatización de versionado y notas de lanzamiento con Release Please.
-- Spec Driven Development (SDD): Desarrollo basado en especificaciones para eliminar errores de negocio.*
+- Spec Driven Development (SDD): Desarrollo basado en especificaciones para eliminar errores de negocio.
 <br>
